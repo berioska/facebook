@@ -1,0 +1,193 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-weight: bold;
+  color: #bdbdbd;
+  font-size: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+  
+
+.card {
+  padding: 10px;
+  background-color: rgb(53, 53, 53);
+  height: auto;
+  width: auto;
+  border-radius: 1rem;
+  margin: 5rem;
+  
+  
+}
+
+.header{
+  display: flex;
+  padding: 1rem;
+  background-color: rgb(53, 53, 53);
+  height: auto;
+  width: auto;
+  color: rgb(231, 235, 235);
+  justify-content: space-between;
+ 
+  
+}
+
+.time-world{
+  display: flex;
+  gap: 5px;
+}
+
+.div-world{
+  display: flex;
+  align-self: center;
+}
+
+
+.time{
+  color: rgba(231, 235, 235, 0.5);
+  font-weight: normal;
+  
+}
+
+.div-counts{
+  display: flex;
+  justify-content: space-between;
+  background-color:rgb(53, 53, 53);
+  margin-top: 1rem;
+  font-size: 15px;
+  
+}
+
+.image-like-count{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+
+}
+
+.div-buttons{
+  display: flex;
+  margin: 0 auto;
+  background-color:rgb(53, 53, 53);
+  height: 4rem;
+  margin-top: 1rem;
+  justify-content: space-around;
+  width: 100%;
+   
+}
+
+.like-button, .comments-button{
+  background-color:rgb(53, 53, 53);
+  border: none;
+  
+}
+
+.comments-button-span{
+  justify-content: flex-end;
+}
+
+button{
+  color: #bdbdbd;
+  font-weight: bold;
+}
+
+.div-buttons{
+  border-top: solid 0.2px #bdbdbd80;
+  padding-top: 1rem;
+}
+
+.content{
+  width: auto;
+  height: auto;
+}
+
+.div-like-count{
+  display: flex;
+}
+
+.like-button-span,.comments-button-span {
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+}
+
+
+.content-header{
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  
+}
+  
+.user-comment-post{
+  display: flex;
+  flex-direction: column ;
+  align-items: start;
+  color: rgb(231, 235, 235);
+  margin-bottom: 1rem;
+}
+
+.close{
+ display: flex;
+ align-items: end;
+}
+
+.close {
+  display: flex;
+}
+
+.close-button{
+  background-color:rgb(53, 53, 53);
+  border: none;
+  align-self: flex-start;
+  margin-left: 14rem;
+}
+
+.user-image-user-post{
+  display: flex;
+  gap: 1rem;
+
+}
+
+.post-image{
+  max-width: 33rem;
+  height: 30rem;
+  display: flex;
+  align-self: center;
+}
+
+.image{
+  width: 100%;
+  height: 100%;
+}
+  
+
+.div-image-user{
+  display: flex;
+  flex-direction: column;
+  border-radius: 3rem;
+  border: solid white 3px;
+  background-color: aqua;
+  width: 50px;
+  height: 50px;
+}
+
+.avatar{
+ border-radius: 3rem;
+ height: 100%;
+ width: 100%;
+}
+ 
+
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Juanito Perez",
+        "id": "1",
+        "avatar": "https://cdn.pixabay.com/photo/2015/03/03/20/42/man-657869_1280.jpg",
+        "time": "6 d",
+        "comment": "Hola a todos!!!",
+        "hashtag": "#SoyElMejor",
+        "post": "https://www.eleconomista.com.mx/__export/1660703652284/sites/eleconomista/img/2022/08/16/amor_mascotas_mueve_economia_mexicana.jpg_1693062421.jpg"
+    },
+    {
+        "name":"Pedro Pablo",
+        "id": "2",
+        "avatar": "https://ceslava.s3-accelerate.amazonaws.com/2012/12/foto-perfil.jpg",
+        "time": "6 hours Ago",
+        "comment": "El mejor post ever",
+        "hashtag": "#Felicidad",
+        "post": "https://media.gq.com.mx/photos/620e915c43f71a078a35533f/16:9/w_2560%2Cc_limit/playa.jpg"
+    },
+    {
+        "name":"Francisca Antonia",
+        "id": "3",
+        "avatar": "https://dthezntil550i.cloudfront.net/f4/latest/f41908291942413280009640715/1280_960/1b2d9510-d66d-43a2-971a-cfcbb600e7fe.png",
+        "time": "3 hours Ago",
+        "comment": "Hermoso Dia",
+        "post": "https://denverselfiemuseum.com/wp-content/uploads/2022/12/good-selfie-.jpg"
+    },
+    {
+        "name":"Alejandro Valenzuela",
+        "id": "4",
+        "avatar": "https://vivolabs.es/wp-content/uploads/2022/03/perfil-hombre-vivo.png",
+        "time": "3 d",
+        "comment": "Dia piolaaa",
+        "hashtag": "#Aburrido",
+        "post": "https://images.pexels.com/photos/1563256/pexels-photo-1563256.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1"
+    }
+    
+]
